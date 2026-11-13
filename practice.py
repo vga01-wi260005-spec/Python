@@ -11,6 +11,3 @@ aki = Character("アキ",100,30) #実物(インスタンス)
 aki.attack()
 mina = Character("ミナ",80,45)
 mina.attack()
-$git add .
-$git commit -m "Add character classes and instances"
-$git push
